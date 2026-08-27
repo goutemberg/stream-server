@@ -49,6 +49,16 @@ http://15.235.9.200:14984/
 http://15.235.9.200:14888/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="TV AO VIVO | ANIMES & GEEK",🔴Dragon Ball Z 24
 http://15.235.9.200:14885/
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="TV AO VIVO | COMÉDIA",Comedy Central Pluto TV
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="TV AO VIVO | COMÉDIA",FailArmy
+https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R5dI2gh.png" group-title="TV AO VIVO | COMÉDIA",Pegadinhas - Just for Laughs
+https://jmp2.uk/plu-67802a22a5d8215f99dcee30.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxld7UK.png" group-title="TV AO VIVO | COMÉDIA",PortaTV
+https://jmp2.uk/plu-69440d0611f6c6384ab78306.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="TV AO VIVO | COMÉDIA",The Pet Collective
+https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bEA7KyI.png" group-title="TV AO VIVO | ESPORTES",Acelerados
 https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRnE50u.png" group-title="TV AO VIVO | ESPORTES",Auto TV
@@ -439,184 +449,32 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 http://201.159.95.110:25461/live/site/site/666.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lge-static.ottera.tv/prod/gpa/linear_channel/thumbnails/poster/280x400/1400x2000_0.png" group-title="TV AO VIVO | NOTÍCIAS",Veja+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15964&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="TV AO VIVO | OUTROS",+SBT HD
-https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="TV AO VIVO | OUTROS" tvg-chno="4",15/07/26
 https://abre.ai/canaldoclientev9mp4
-#EXTINF:-1 tvg-logo="https://www.40graustv.com.br/wp-content/uploads/2017/02/logo-circular.png" group-title="TV AO VIVO | OUTROS",40 GRAUS TV
-https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDq65tu.png" group-title="TV AO VIVO | OUTROS" tvg-chno="2",75 991634025
 https://abre.ai/canaldoarmp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/851wj7w.png" group-title="TV AO VIVO | OUTROS",A Escrava_Isaura
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
 #EXTINF:-1 tvg-logo="https://BUTceP.png" group-title="TV AO VIVO | OUTROS",A Fazenda 1
 #EXTINF:-1 tvg-logo="https://iUTceP.png" group-title="Canais | REALITY",A Fazenda 2
-#EXTINF:-1 tvg-logo="https://imgur.com/nVFiftB.png" group-title="TV AO VIVO | OUTROS",ABC BRASIL
-https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oyShsQU.png" group-title="TV AO VIVO | OUTROS",AgitoMax
-https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="TV AO VIVO | OUTROS",Agro Canal
-https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD1725309082818.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="TV AO VIVO | OUTROS",AgroMais HD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",Agro Plus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="TV AO VIVO | OUTROS",AmazonSat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
-#EXTINF:-1  tvg-logo="https://i.imgur.com/zIZlgsn.png" group-title="TV AO VIVO | OUTROS",Anos 80 retrô
-https://hls.hunter.fm/80s/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gFE3Qih.png" group-title="TV AO VIVO | OUTROS",Antena 1
-https://antenaone.crossradio.com.br/stream/1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="TV AO VIVO | OUTROS",Assombrações
 https://jmp2.uk/plu-620d1512c7986a0007220213.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xnBg83J.png" group-title="TV AO VIVO | OUTROS",Astral TV FHD
-https://isaocorp.cloudecast.com/astraltv/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/11DH4AQ.png" group-title="TV AO VIVO | OUTROS",ATIVIDADE FM 87.9 Canudos BA
-https://1.stmip.net:8070/stream?type=.flv
-#EXTINF:-1 tvg-logo="https://imgur.com/zxFbtNi.png" group-title="TV AO VIVO | OUTROS",AW TV
-https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="TV AO VIVO | OUTROS",Band Arapuan HD
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="TV AO VIVO | OUTROS",Band MG HD
-#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band - TV Modelo
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="TV AO VIVO | OUTROS",Band News HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21.m3u8
-#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="TV AO VIVO | OUTROS",Band RJ HD
-http://gerenciar.vivatele.com/viva_padrao/viva2384/3
-#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="TV AO VIVO | OUTROS",Band SP HD
-#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band HD
-#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="TV AO VIVO | OUTROS",Band TV - Vale do Uruará 
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8?ManoTV
-#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="TV AO VIVO | OUTROS",Band TV RBA TV
-https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="TV AO VIVO | OUTROS",BDCTV - TV A Critica
-https://cr7v.short.gy/ManoTV/BDCTV/Index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f7FvEEO.png" group-title="TV AO VIVO | OUTROS",BR Super TV
-http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d2qdM76.png" group-title="TV AO VIVO | OUTROS",Brado Rádio 
-https://servidor17-5.brlogic.com:8300/live?source=links_page
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BraziTV.png" group-title="TV AO VIVO | OUTROS",BraziTV
-https://cbtvnow.com:5866/hls/livest2024.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="TV AO VIVO | OUTROS",BS TV
-https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/WwEyKVj.png" group-title="TV AO VIVO | OUTROS",Canal 29
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/isJAvqM.png" group-title="TV AO VIVO | OUTROS",Canal do Boi HD
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/7
 #EXTINF:-1 tvg-id="novidades" tvg-name="ManoTV" tvg-logo="https://i.imgur.com/gWFKpfr.png" group-title="TV AO VIVO | OUTROS" tvg-chno="1",CANAL DO USUÁRIO HD
 https://abre.ai/canaldoclientev8mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LMeLMRn.png" group-title="TV AO VIVO | OUTROS",Canal Educação 
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="TV AO VIVO | OUTROS",Canal Futura
-https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rEIu04G.png " group-title="TV AO VIVO | OUTROS",Canal Ok TV
-https://video01.kshost.com.br/oktv6914/oktv6914/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="TV AO VIVO | OUTROS",Canal Rural HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=14073
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="TV AO VIVO | OUTROS",Canal Rural HD²
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/urwEPnx.png" group-title="TV AO VIVO | OUTROS",Canal Smart
-https://5ffab78b24f94.streamlock.net/smart/smart/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="TV AO VIVO | OUTROS",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="TV AO VIVO | OUTROS",Canção Nova HD
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="TV AO VIVO | OUTROS",Canção Nova Portugal
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="TV AO VIVO | OUTROS",Caravana Play
-https://srv4.zcast.com.br/keynni2406/keynni2406/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/63hgt4q.png" group-title="TV AO VIVO | OUTROS",Caçadores de Ovnis
 https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="TV AO VIVO | OUTROS",CENTRAL TV
-https://tv02.zas.media:1936/centraltv/centraltv/pkaylist.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QZhhn6FN9to/UlFrsL3Tt0I/AAAAAAAAbHo/ds9DswoDlWo/s400/Logo%2Bdo%2BSite.png" group-title="TV AO VIVO | OUTROS",CINEPIX
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="TV AO VIVO | OUTROS",CLASSIQUE TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="TV AO VIVO | OUTROS",CLASSIQUE TV SERIES
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://westerntvclassics.com/wp-content/uploads/2018/07/westernclassics-header-logo.png" group-title="TV AO VIVO | OUTROS",CLASSIQUE TV WETERN
-https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="TV AO VIVO | OUTROS",Clube Web TV
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c13e6b573ac2c21dd7268e3a65f95b34.webp" group-title="TV AO VIVO | OUTROS",ComBrasil
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="TV AO VIVO | OUTROS",Comedy Central Pluto TV
-https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/AUdVAuP.png" group-title="TV AO VIVO | OUTROS",CONECTV
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png" group-title="TV AO VIVO | OUTROS",Coreano by CJ ENM
 https://jmp2.uk/stvp-ES1700003C6
-#EXTINF:-1 tvg-logo="https://imgur.com/ZV8L3gl.png" group-title="TV AO VIVO | OUTROS",Cultura Internacional 
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T1G2nHK.png" group-title="TV AO VIVO | OUTROS",Demais TV
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Ns3uV8S.png" group-title="TV AO VIVO | OUTROS",Energia 97
-https://streaming.inweb.com.br/energia
-#EXTINF:-1 tvg-logo="https://imgur.com/YXvSdlo.png" group-title="TV AO VIVO | OUTROS",ESFLIX TV
-https://acesso.ecast.site:3186/live/esflixlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3TlNQcz.png" group-title="TV AO VIVO | OUTROS",Estado Paranormal
 https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/uUx9BKZ.png" group-title="TV AO VIVO | OUTROS",Euclides da Cunha FM
-https://servidor25-2.brlogic.com:8024/live?type=.flv
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="TV AO VIVO | OUTROS",FailArmy
-https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49N2MU1.png" group-title="TV AO VIVO | OUTROS",Free TV Drama
 https://oly-ftvcbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h3CwbgQ.png" group-title="TV AO VIVO | OUTROS",Gavião FM 
-https://stm11.xcast.com.br:11000
-#EXTINF:-1 tvg-logo="https://imgur.com/uJfsfJV.png" group-title="TV AO VIVO | OUTROS",GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | OUTROS",Globo Brasília FHD
-#EXTINF:-1 tvg-id="TV Bahia" tvg-name="TV Bahia" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo BA HD
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="TV AO VIVO | OUTROS",Globo ES HD
-############################################################################ Canais | REALITY
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="TV AO VIVO | OUTROS",Globo Manaus HD
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Rede Amazonica Porto Velho HD
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/3XU1BuI.png" group-title="TV AO VIVO | OUTROS",Globo Maranhão HD 
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/3XU1BuI.png" group-title="Canais | GLOBO",Globo Maranhão FHD
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | OUTROS",Globo MG HD
-https://megaflix.mgfiles.lat/80c61267ad79da594c4b6ac915dcf2ce/file.m3u8
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | OUTROS",Globo MG HD²
-https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/60842be4f3e82a1163948605d01b3b96/file.txt
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | OUTROS",Globo MT HD
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo PB HD
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/7RU6OC9.png" group-title="TV AO VIVO | OUTROS",Globo NSC HD
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/TevIGQZ.png" group-title="Canais | GLOBO",Globo TV Liberal Belém
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | OUTROS",Globo PE HD
-https://megaflix.mgfiles.lat/cb318dfd4f9b98c6952bae9ea853ca13/file.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | OUTROS",Globo RJ FHD
-http://45.190.28.50/GLOBO_HD/index.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | OUTROS",Globo RJ HD
-http://gerenciar.vivatele.com/viva_padrao/viva2384/1
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | OUTROS",Globo SP FHD
-https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | OUTROS",Globo SP HD
-http://170.84.165.204/Globo_HD/index.m3u8
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/OkFRcFd.png" group-title="TV AO VIVO | OUTROS",Globo TV Subaé HD
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/3xAPAkE.png" group-title="Canais | GLOBO",TV Clube HD
 #EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="TV AO VIVO | OUTROS",GloboPlay Novelas FHD
 http://s2.micineovs.com/VIVA/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="TV AO VIVO | OUTROS",GloboPlay Novelas HD
 http://79.127.238.228:14455/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TyGio9J.png" group-title="TV AO VIVO | OUTROS",Gogo Play
-https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/spf0rU1.png" group-title="TV AO VIVO | OUTROS",Gospel
-https://hls.hunter.fm/gospel/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xf2VM5n.png" group-title="TV AO VIVO | OUTROS",Gospel Cartoon
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="TV AO VIVO | OUTROS",Gospel Internacional
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="TV AO VIVO | OUTROS",Gospel Internacional
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/niOjbp5.png" group-title="TV AO VIVO | OUTROS",Gospel Movies TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/47oBUBM.png" group-title="TV AO VIVO | OUTROS",Gospel Music TV
-https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/coq8mWG.png" group-title="TV AO VIVO | OUTROS",Gostei Gospel TV
-https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="TV AO VIVO | OUTROS",GRJNGO
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2azaf982" group-title="TV AO VIVO | OUTROS",Guia TV
-https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="TV AO VIVO | OUTROS",Hallo Anime HD²
 https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lFkmVqX.png" group-title="TV AO VIVO | OUTROS",Hallo! Doc.
@@ -629,214 +487,28 @@ https://cdn-5.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BMV8Nbn.png" group-title="TV AO VIVO | OUTROS",Hallo! Series
 https://cdn-5.nxplay.com.br/HALLOSERIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1  tvg-logo="https://i.imgur.com/q9qGILb.png" group-title="TV AO VIVO | OUTROS",Hits Brasil 
-https://hls.hunter.fm/hitsbrasil/64.m3u8?shtl=7KWu3SjMvgY-GhV1-8B6b9rB.lpykqpyxgqfSK4vGJSb3tqheOVp2UggEshcePVZJDVw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCaOOL8.png" group-title="TV AO VIVO | OUTROS",Igreja Mundial HD
-https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1960836974_b1596000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCaOOL8.png" group-title="TV AO VIVO | OUTROS",Igreja Mundial SD
-https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1960836974_b896000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png " group-title="TV AO VIVO | OUTROS",Igreja Universal
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVFQTlu.png" group-title="TV AO VIVO | OUTROS",IMG TV
-https://cdn.live.br1.jmvstream.com/w/AVJ-15526/playlist/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="TV AO VIVO | OUTROS",Imperial TV
-https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/zHMxF3o.png" group-title="TV AO VIVO | OUTROS",Iofi
-https://stream.hunter.fm/lofi/64.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="TV AO VIVO | OUTROS",ISTV HD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Canais | ABERTO",ISTV FHD
-#EXTINF:-1  tvg-logo="https://imgur.com/sxxaEKP.png" group-title="TV AO VIVO | OUTROS",JERE FM 106.9 JEREMOABO BA
-https://1.stmip.net:2044/stream?type=.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YREInDH.png" group-title="TV AO VIVO | OUTROS",Jovem Pan FM
-https://stream.zeno.fm/c45wbq2us3buv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YREInDH.png" group-title="TV AO VIVO | OUTROS",Jovem Pan News
-https://stream.zeno.fm/vlcraijc6yiuv
-#EXTINF:-1  tvg-logo="https://i.imgur.com/MD1dcaA.png" group-title="TV AO VIVO | OUTROS",K-Pop
-https://stream.hunter.fm/kpop/64.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/brj5bHE.png" group-title="TV AO VIVO | OUTROS",LASSTV 
-https://tv02.zas.media:1936/lasstv/lasstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vI7gC3m.png" group-title="TV AO VIVO | OUTROS",Life Channel Brasil
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f7ikR69.png" group-title="Canais | ABERTO",TV Diário do Sertão
 #EXTINF:-1 tvg-id="malhacao-fast" tvg-name="malhacao-fast" tvg-logo="https://i.imgur.com/0gDjNFs.png" group-title="TV AO VIVO | OUTROS",Malhação Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/576p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="malhacao-fast" tvg-name="malhacao-fast" tvg-logo="https://i.imgur.com/0gDjNFs.png" group-title="TV AO VIVO | OUTROS",Malhação Fast "TCL"
 https://amg00716-globo-amg00716c4-tcl-br-9499.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MasterChef" tvg-logo="https://i.imgur.com/qKwrAUT.png" group-title="TV AO VIVO | OUTROS",MasterChef
-https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay_Rights/Masterchef_Brasil_BR/Masterchef_Brasil.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="TV AO VIVO | OUTROS",Ministério Infantil TV
-http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="TV AO VIVO | OUTROS",Mix Bahia 
-https://8175.brasilstream.com.br/stream
-#EXTINF:-1  tvg-logo="https://i.imgur.com/eT8XaE3.png" group-title="TV AO VIVO | OUTROS",Moda Sertaneja
-https://hls.hunter.fm/modasertaneja/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0QYXJwv.png" group-title="TV AO VIVO | OUTROS",NBT
-https://isaocorp.cloudecast.com/nbt/index.m3u8?ManoTV
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vSKVrvH.png" group-title="TV AO VIVO | OUTROS",NEW BRASIL HD
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yGBFPRH.png" group-title="TV AO VIVO | OUTROS",NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="TV AO VIVO | OUTROS",Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="TV AO VIVO | OUTROS",Novelissima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="TV AO VIVO | OUTROS",Novelissima BR
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NMx2Cxc.png" group-title="TV AO VIVO | OUTROS",O Dia TV
-https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HpA8CIQ.png" group-title="TV AO VIVO | OUTROS",Olha TV
-http://24.152.8.38:5001/live/olhatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tzYimlq.png" group-title="TV AO VIVO | OUTROS",Os Dez Mandamentos 
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gD0hmt2.png" group-title="TV AO VIVO | OUTROS",OTAKU SIGN TV
-https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/BNyxPr8.png" group-title="TV AO VIVO | OUTROS",Pagode 
-https://hls.hunter.fm/pagode/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
-#EXTINF:-1 tvg-logo="https://imgur.com/sxB1tnb.png" group-title="TV AO VIVO | OUTROS",PBC TV
-https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R5dI2gh.png" group-title="TV AO VIVO | OUTROS",Pegadinhas - Just for Laughs
-https://jmp2.uk/plu-67802a22a5d8215f99dcee30.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/frAXSr8.png" group-title="TV AO VIVO | OUTROS",Pisadinha
-https://hls.hunter.fm/pisadinha/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jdd5Jsa.png" group-title="TV AO VIVO | OUTROS",PIXTV 
-https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="TV AO VIVO | OUTROS",Play TV
-https://isaocorp.cloudecast.com/playtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ktlcZV.png" group-title="TV AO VIVO | OUTROS",Pluto TV Aliens
 https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MW4LLlG.png" group-title="Pluto TV | RETRÔ group-title="TV AO VIVO | OUTROS",Pluto TV Desenhos Clássicos 
+https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 #EXTINF:-1 tvg-id="Pluto TV MISTÉRIOS" tvg-name="Pluto TV MISTÉRIOS" tvg-logo="https://i.imgur.com/NhguLFB.png" group-title="TV AO VIVO | OUTROS",Pluto TV Mistérios
 https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/uq88JPV.png" group-title="TV AO VIVO | OUTROS",Pop
-https://hls.hunter.fm/pop/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1  tvg-logo="https://i.imgur.com/D2pbbPX.png" group-title="TV AO VIVO | OUTROS",Pop 2
-https://hls.hunter.fm/pop2k/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oxld7UK.png" group-title="TV AO VIVO | OUTROS",PortaTV
-https://jmp2.uk/plu-69440d0611f6c6384ab78306.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bcIpMWI.png" group-title="TV AO VIVO | OUTROS",Primer TV
-http://177.74.174.57:8080/hls/primertv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xeW2Hsa.png" group-title="TV AO VIVO | OUTROS",Qtal Channel 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ga5pHL9.png" group-title="Canais | ABERTO",VV8 TV
-#EXTINF:-1 tvg-id="RadarTV" tvg-name="Radar TV" tvg-logo="https://raw.githubusercontent.com/althierestm/Radartvplayer/refs/heads/main/logo%20png%20RadarTV.png" group-title="TV AO VIVO | OUTROS",Radar TV
-https://radartv.s.gy/radartvaovivo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5qYY7Hk.png" group-title="TV AO VIVO | OUTROS",Radio Onda Beat 
-https://www.quinsanbroadcast.com.br:8040/101FM_LITORAL?type=.flv
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="TV AO VIVO | OUTROS",RBS TV Caxias do Sul HD
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Pelotas HD
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="TV AO VIVO | OUTROS",RBS TV Porto Alegre HD
-https://megaflix.mgfiles.lat/62b278caf8021fc494d36ab72bc861b6/file.m3u8
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="TV AO VIVO | OUTROS",Record SicTV (RO)
-############################################################################ Canais | BAND TV
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | OUTROS",RecordTV BA HD
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | OUTROS",RecordTV Juara HD
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | OUTROS",RecordTV MG 
-https://megaflix.mgfiles.lat/6806ada26af700a60ae19d1bf5f7e349/file.m3u8
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | OUTROS",RecordTV MT
-https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | OUTROS",RecordTV RJ HD
-http://gerenciar.vivatele.com/viva_padrao/viva2384/13
-#EXTINF:-1 tvg-id="Record TV Rio" tvg-name="Record TV Rio" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | OUTROS",RecordTV RJ HD
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Conquista HD
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | OUTROS",RecordTV RS HD
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/zdnMTtl.png" group-title="Canais | RECORD TV",TV Tropical
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | OUTROS",RecordTV SP HD²
-https://megaflix.mgfiles.lat/63299fd58178d03ef6a684296c62570a/file.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="TV AO VIVO | OUTROS",Rede Brasil HD
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="TV AO VIVO | OUTROS",Rede Brasil MT
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="TV AO VIVO | OUTROS",Rede Brasil PA
-https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="TV AO VIVO | OUTROS",Rede Brasil SC
-https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iBlmVp6.png" group-title="TV AO VIVO | OUTROS",Rede Clone TV
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="TV AO VIVO | OUTROS",Rede CNT 
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZesaflEnFih4nFWIp20LhZ-A
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wp0jhkB.png" group-title="TV AO VIVO | OUTROS",Rede Família
-https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ngbsXOB.png" group-title="TV AO VIVO | OUTROS",Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Qqpy6u.png" group-title="TV AO VIVO | OUTROS", Rede IBTV
-https://video01.kshost.com.br:4443/k34006/k34006/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qU1cTOi.png" group-title="TV AO VIVO | OUTROS",Rede Meio
-https://maystreaming.cloudecast.com/redemeio/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="TV AO VIVO | OUTROS",Rede Meio Norte FHD
-https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V1mGOJl.png" group-title="TV AO VIVO | OUTROS",Rede Mundo d Televisão 
-https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/c8J2flM.png" group-title="TV AO VIVO | OUTROS",Rede QDM
-https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/D9JfGzP.png" group-title="TV AO VIVO | OUTROS",Rede SDP TV 
-https://video01.kshost.com.br/moobi3963/moobi3963/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/faofls5.png" group-title="TV AO VIVO | OUTROS",REDE SECULO 21
-https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dNy2G7h.png" group-title="TV AO VIVO | OUTROS",Rede Sul
-https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/baoWqMK.png" group-title="TV AO VIVO | OUTROS",Rede TV Sul
-https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ShOT5Xg.png" group-title="TV AO VIVO | OUTROS",Rede UTV
-https://utvcdn.acessaradios.com.br/utvcdn/utvcdn.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://imgur.com/0uNleBN.png" group-title="TV AO VIVO | OUTROS", Rede Vida
-https://aovivo.doozytv.com.br/31025556/10150829/chunks.m3u8
-#EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="TV AO VIVO | OUTROS",RedeTV Guará Caxias 
-https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="TV AO VIVO | OUTROS",RedeTV São Luís Maranhão 
-https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="TV AO VIVO | OUTROS",RedeTV TV MA
-https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/EgKx2J1.png" group-title="TV AO VIVO | OUTROS",RedeTV!
-#EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="Canais | RedeTV",RedeTV! PR HD
-#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="TV AO VIVO | OUTROS",RedeTV! Ro
-https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV HD" tvg-name="RedeTV HD" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="TV AO VIVO | OUTROS",RedeTV! TV Pampa RS
-https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/psyk2C5.png" group-title="TV AO VIVO | OUTROS",RIT TV
-https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/31xazuV.png " group-title="TV AO VIVO | OUTROS",RNS TV HD
-https://stream.ichibantv.com:3827/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/31xazuV.png " group-title="TV AO VIVO | OUTROS",RNS TV HD²
-https://stream.ichibantv.com:3827/hybrid/play.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/xAD9aHh.png" group-title="TV AO VIVO | OUTROS",Rock
-https://hls.hunter.fm/rock/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="TV AO VIVO | OUTROS",RPC Maringa FHD
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/Lk493tt.png" group-title="Canais | GLOBO",Globo Goiás HD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLBwn2Z.png" group-title="TV AO VIVO | OUTROS",RS News WebTV 1
-https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLBwn2Z.png" group-title="TV AO VIVO | OUTROS",RS News WebTV 2
-https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oiyGlGY.png" group-title="TV AO VIVO | OUTROS",RTN TV SP HD
-https://stmv1.samcast.com.br/cltv/cltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="TV AO VIVO | OUTROS",Rádio Cidade BA
-https://streaming.livespanel.com:20959/cidadefmlem
-#EXTINF:-1 tvg-logo="https://imgur.com/YEV3p7r.png" group-title="TV AO VIVO | OUTROS",Rádio Muriaé Play
-https://stream.zeno.fm/d42wceognggtv.m3u3
-#EXTINF:-1  tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="TV AO VIVO | OUTROS",Rádio POP
-https://virtues.live:8254/stream?type=.flv
-#EXTINF:-1 tvg-logo="https://imgur.com/OpAKbxr.png" group-title="TV AO VIVO | OUTROS",Rádio Salvador FM 
-https://streaming.livespanel.com:9230/ssafm9230?type=.flv
-#EXTINF:-1 tvg-logo="https://imgur.com/JxyVX6Y.png" group-title="TV AO VIVO | OUTROS",SANTA CRUZ WEB TV
-https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="TV AO VIVO | OUTROS",SBT CIDADE VERDE FHD
-https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="TV AO VIVO | OUTROS",SBT Guajará
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="TV AO VIVO | OUTROS",SBT NEWS
-https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="TV AO VIVO | OUTROS",SBT SP HD
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT Interior
-#EXTINF:-1  tvg-logo="https://i.imgur.com/I3pDcOW.png" group-title="TV AO VIVO | OUTROS",Sertanejo
-https://hls.hunter.fm/sertanejo/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
-#EXTINF:-1 tvg-logo="https://imgur.com/kjL8Dvg.png" group-title="TV AO VIVO | OUTROS",Seven TV
-https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" group-title="TV AO VIVO | OUTROS",SIC Novelas
 #EXTINF:-1 tvg-logo="https://i.imgur.com/crseFhh.png" group-title="Canais | NOVELAS",TVi Ficção HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="TV AO VIVO | OUTROS",Sony Novelas | LG
 ############################################################################ Canais | FILMES E SERIES
-#EXTINF:-1 tvg-logo="https://imgur.com/V3haAYn.png" group-title="TV AO VIVO | OUTROS",Sou TV.
-https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="TV AO VIVO | OUTROS",Soul Cine Clube
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="TV AO VIVO | OUTROS",SporTV 2 HD
 https://megaflix.mgfiles.lat/fd2819110f2f7830b46749d1176b3e78/file.m3u8
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title="TV AO VIVO | OUTROS",SporTV 3 FHD
@@ -849,216 +521,18 @@ https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 #EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="TV AO VIVO | OUTROS",SporTV HD³
 https://cr7v.short.gy/ManoTVfree/SPOREXTRA/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MByVw7Z.png" group-title="TV AO VIVO | OUTROS",SPTV
-https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SUgLjCa.png" group-title="TV AO VIVO | OUTROS",Stormcast Novelas TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n232OSq.png" group-title="TV AO VIVO | OUTROS",Tela Viva TV 
-https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?ManoTV
 #EXTINF:-1  tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV AO VIVO | OUTROS",TELEVISA
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/770kcRF.png" group-title="TV AO VIVO | OUTROS",Televisa Telenovelas | Itália
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Wl6vWI.png" group-title="TV AO VIVO | OUTROS",Tenda TV
-https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R2NXXCw.png" group-title="TV AO VIVO | OUTROS",Terceira via
-https://video01.kshost.com.br:4443/terceira7669/terceira7669/playlist.m3u8
-#EXTINF:-1 tvg-id="TERRA VIVA" tvg-logo="https://img.platform.wurl.dev/channel/2176/lg/3943d0/LG-Logo-PNG-100x100_v1.png" group-title="TV AO VIVO | OUTROS",Terra Viva
-https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="TV AO VIVO | OUTROS",TERRA VIVA HD
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/82
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="TV AO VIVO | OUTROS",The Pet Collective
-https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="TV AO VIVO | OUTROS",TNT Novelas FHD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyGF8K4.png" group-title="Canais | NOVELAS",Reis
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="TV AO VIVO | OUTROS",TNT Novelas HD
 https://megaflix.mgfiles.lat/483d948d625b1ac4182c3d6f2266d9ce/file.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tnv08Si.png" group-title="TV AO VIVO | OUTROS",TOP Mix TV
-https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ManoTV
-#EXTINF:-1  tvg-logo="https://i.imgur.com/uoQafom.png" group-title="TV AO VIVO | OUTROS", Tropical 
-https://hls.hunter.fm/tropical/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="TV AO VIVO | OUTROS",TV A Folha
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BdTbhqX.gif" group-title="TV AO VIVO | OUTROS",TV Alternativa
-https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egU0jsZ.png" group-title="TV AO VIVO | OUTROS",TV Aparecida HD
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xrbBNPa.png" group-title="TV AO VIVO | OUTROS",TV Aracati
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/tyFtNYn.png" group-title="TV AO VIVO | OUTROS",TV ARATU HD
-https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Hbt4qg.png" group-title="TV AO VIVO | OUTROS",TV Candidés
-https://cdn.live.br1.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TV CEARÁ" tvg-name="TV CEARÁ" tvg-logo="https://i.imgur.com/IR0UllK.png" group-title="TV AO VIVO | OUTROS",TV Ceará HD
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://i.imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário HD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbZIFGO.png" group-title="TV AO VIVO | OUTROS",TV CEL 
-https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w636630499.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XJwljjR.png" group-title="TV AO VIVO | OUTROS",TV Channel Network 
-https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FpLO71B.png" group-title="TV AO VIVO | OUTROS",TV Chroma
-https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2tLnGbo.png" group-title="TV AO VIVO | OUTROS",TV Cidade RJ
-https://stream.ichibantv.com:3827/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="TV AO VIVO | OUTROS",TV Cidade Verde
-https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="TV AO VIVO | OUTROS",TV CLASSICOS
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/eCMeuc4.png" group-title="TV AO VIVO | OUTROS",TV CNB AMERICAN
-https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w144456680.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RpQKY4x.png" group-title="TV AO VIVO | OUTROS",TV CNB ORLANDO
-https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="TV AO VIVO | OUTROS",TV Cristal - TV A Crítica TO
-https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbCBogB.png" group-title="TV AO VIVO | OUTROS",TV da Gente
-https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="TV AO VIVO | OUTROS",TV Difusora (SBT São Luís) 
-https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="TV AO VIVO | OUTROS",TV Difusora Leste
-https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="TV AO VIVO | OUTROS",TV Evangelizar 
-https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="TV AO VIVO | OUTROS",TV Fala Litoral 
-https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605044150.m3u8
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="TV AO VIVO | OUTROS",TV Gazeta BA SD
-https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="TV AO VIVO | OUTROS",TV Gazeta HD
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/79
-#EXTINF:-1 tvg-logo="https://imgur.com/3YP7dFy.png" group-title="TV AO VIVO | OUTROS",TV GAZETA NORTE MINEIRA
-https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="TV AO VIVO | OUTROS",TV Gazeta SP HD
-https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lzBM8Gh.png" group-title="TV AO VIVO | OUTROS",TV gospel 
-https://5cf4a2c2512a2.streamlock.net/8036/8036/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wdyq9R9.png" group-title="TV AO VIVO | OUTROS",TV Gramado
-https://isaocorp.cloudecast.com/tvgramado/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CbmctRN.png" group-title="TV AO VIVO | OUTROS",TV Grão Pará
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="TV AO VIVO | OUTROS",TV Guará MA
-https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5HoOtda.png" group-title="TV AO VIVO | OUTROS", TV Imaculada
-https://caikron.com.br:19360/tvmi/tvmi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t7tFDIb.png" group-title="TV AO VIVO | OUTROS",TV Japi
-https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="TV AO VIVO | OUTROS",TV Jornal HD
-https://streaming.jornalmn.com.br/live/tvjornalmn.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0BoUkWv.png " group-title="TV AO VIVO | OUTROS",TV LITORAL 
-https://srv2.tvmais.net.br/hls/tvlitoral/1_0/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FTXUY6K.png " group-title="TV AO VIVO | OUTROS",TV LITORAL Macau
-https://video10.logicahost.com.br/zapnovelas/zapnovelas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FTXUY6K.png " group-title="TV AO VIVO | OUTROS",TV LITORAL RN
-https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TV MAANAIM" tvg-name="TV MAANAIM" tvg-logo="https://i.imgur.com/71mif2R.png" group-title="TV AO VIVO | OUTROS",TV Maanaim
-https://58c8a6b3c74e2.streamlock.net:1936/maranatalive/smil:maranatalive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9N1RL3.png" group-title="TV AO VIVO | OUTROS",TV Mais
-https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OaLL6zj.png" group-title="TV AO VIVO | OUTROS",TV Mais Brasil 
-https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tHbZKnY.png " group-title="TV AO VIVO | OUTROS",TV Mais Família
-https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="TV AO VIVO | OUTROS",TV Marajoara 
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="TV AO VIVO | OUTROS",TV NBN
-https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLhvH1F.png" group-title="TV AO VIVO | OUTROS",TV Nostalgia 
-https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cfjqStG.png" group-title="TV AO VIVO | OUTROS",TV Nostalgia 
-https://stmv1.srvif.com/tvnostalgia/tvnostalgia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NNiNQFX.png" group-title="TV AO VIVO | OUTROS",TV Notícias Agrícolas
-https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="TV AO VIVO | OUTROS",TV Novo Tempo HD
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="TV AO VIVO | OUTROS",TV Novo Tempo SD
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0zSVzOc.png" group-title="TV AO VIVO | OUTROS",TV Osório News 
-https://stmv2.srvsh.com.br/0614/0614/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mfdXYXs.png" group-title="TV AO VIVO | OUTROS",TV OURO NEGRO
-https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nh3yugR.png" group-title="TV AO VIVO | OUTROS",TV Paraense
-https://cdn.jmvstream.com/w/AVJ-13102/playlist/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OP1rFwr.png" group-title="TV AO VIVO | OUTROS",TV Paraná Turismo 
-https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nA0cWeE.png" group-title="TV AO VIVO | OUTROS",TV RBC
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/usK7kMl.png" group-title="TV AO VIVO | OUTROS",Tv Recanto da Fé
-https://stmv1.srvif.com/2022/2022/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iBzrYCV.png" group-title="TV AO VIVO | OUTROS",TV Recon
-https://acesso.ecast.site:3862/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="TV AO VIVO | OUTROS",TV RIO MADEIRA
-https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/03l7P4i.png" group-title="TV AO VIVO | OUTROS",TV Rio Preto
-https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JPpKN78.png" group-title="TV AO VIVO | OUTROS",TV Santa Maria
-https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/asML84j.png" group-title="TV AO VIVO | OUTROS",TV Serra América 
-https://stmv2.srvsh.com.br/tvserraamerica4639/tvserraamerica4639/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yKrsIlf.png" group-title="TV AO VIVO | OUTROS",TV Serra Dourada
-https://livestream.zazerconer.workers.dev/channel/UCuODGS_c39psNvI8f3bYN_g.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tLkF2BE.png" group-title="TV AO VIVO | OUTROS",TV SIM Colatina
-https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tLkF2BE.png" group-title="TV AO VIVO | OUTROS",TV SIM Linhares
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tLkF2BE.png" group-title="TV AO VIVO | OUTROS",TV SIM São Mateus
-https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/htzprG4.png" group-title="TV AO VIVO | OUTROS",TV Sol Comunidade
-http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMdQYEe.png" group-title="TV AO VIVO | OUTROS",TV Sonata 
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pw0RLlI.png" group-title="TV AO VIVO | OUTROS",TV União Brasília
-https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pw0RLlI.png" group-title="TV AO VIVO | OUTROS",TV União Fortaleza 
-https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pw0RLlI.png" group-title="TV AO VIVO | OUTROS",TV União Rio Branco
-https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/KYuhWGi.png" group-title="TV AO VIVO | OUTROS",TV Verde Mares CE HD
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QqdFSOV.png" group-title="TV AO VIVO | OUTROS",TV Vianney
-https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I9vp3vu.png" group-title="TV AO VIVO | OUTROS",TV Visual 
-https://stream.ichibantv.com:3874/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IfPT4sF.png" group-title="TV AO VIVO | OUTROS",TV Vitória PE
-https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUVp1U1.png" group-title="TV AO VIVO | OUTROS",TVC
-https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w384766910.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lka8Rpn.png" group-title="TV AO VIVO | OUTROS",TVC Brasil
-https://a.cdni.live/tvcbrasil/tvcbrasil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/58dfbhr.png" group-title="TV AO VIVO | OUTROS",TVM Pará 
-https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://imgur.com/6MtSWg4.png" group-title="TV AO VIVO | OUTROS",ULB TV
-https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1050568292.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TQKRfvo.png" group-title="TV AO VIVO | OUTROS",Universo TV
-https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBlBL5U.png" group-title="TV AO VIVO | OUTROS",VClassic TV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f97c5Fk.png" group-title="TV AO VIVO | OUTROS",Vila TV
-https://streamserver.streamingdevideo.com.br/8072/8072/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NRdlPpn.png" group-title="TV AO VIVO | OUTROS",VITRINE ESPORTIVA
-https://cdn.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rGJNeou.png" group-title="TV AO VIVO | OUTROS",Vivax TV
-https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hDsCVEY.png" group-title="TV AO VIVO | OUTROS",Web Rádio JP
-https://stream.zeno.fm/a7klgcfvvw9uv
-#EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="TV AO VIVO | OUTROS",Web Rádio Lairton Teclas
-https://live20.bozztv.com/akamaissh101/ssh101/ltrecords/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="TV AO VIVO | OUTROS",Web Rádio Lairton Teclas
-https://live20.bozztv.com/akamaissh101/ssh101/ltrecords/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jl4UUmb.png" group-title="TV AO VIVO | OUTROS", WEB TV BOANOVA
-https://stmv.video.expressolider.com.br/tvboanova/tvboanova/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VdcLJto.png" group-title="TV AO VIVO | OUTROS",Web TV Campeão De Tudo
-https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="TV AO VIVO | OUTROS",Web TV Classicos
-https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qIzyAmA.png" group-title="TV AO VIVO | OUTROS",WEB TV PROGRESSO
-#EXTINF:-1 tvg-logo="https://imgur.com/akpYIW2.png" group-title="Canais | ABERTO",VRT Channel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0AVLnGG.png" group-title="TV AO VIVO | OUTROS" tvg-chno="3",Whats 75991634025
 https://abre.ai/canaldocliente7mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/oWwYGI1.png" group-title="TV AO VIVO | OUTROS", Wtj TV Minas
-https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3AbUT8O.png" group-title="TV AO VIVO | OUTROS", XTREME TV
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7AKdZrC.png" group-title="TV AO VIVO | OUTROS",YEEAAH
-http://stmv2.painelvideo.top/yeeaahrede/yeeaahrede/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://nVFiftB.png" group-title="TV AO VIVO | OUTROS", Ypê TV
-https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YM6uLry.png" group-title="TV AO VIVO | PLUTO TV",A Feiticeira 
 https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q13XTSB.png" group-title="TV AO VIVO | PLUTO TV",ACUMULADORES OBSESSIVOS
@@ -1149,8 +623,6 @@ https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
 https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R3bVmTX.png" group-title="TV AO VIVO | PLUTO TV",Pluto TV Curiosidade
 https://jmp2.uk/plu-6474aadc8e3c0a0008b98493.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MW4LLlG.png" group-title="TV AO VIVO | PLUTO TV"TV AO VIVO | OUTROS",Pluto TV Desenhos Clássicos 
-https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/llEiDMh.png" group-title="TV AO VIVO | PLUTO TV",Pluto TV História
 https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
 #EXTINF:-1 tvg-id="Pluto TV Investigação" tvg-name="Pluto TV Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="TV AO VIVO | PLUTO TV",Pluto TV Investigação
@@ -1197,6 +669,534 @@ https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/hPGZiUS.png" group-title="TV AO VIVO | PLUTO TV",Top Barça
 https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/zIZlgsn.png" group-title="TV AO VIVO | RÁDIO",Anos 80 retrô
+https://hls.hunter.fm/80s/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFE3Qih.png" group-title="TV AO VIVO | RÁDIO",Antena 1
+https://antenaone.crossradio.com.br/stream/1
+#EXTINF:-1  tvg-logo="https://imgur.com/11DH4AQ.png" group-title="TV AO VIVO | RÁDIO",ATIVIDADE FM 87.9 Canudos BA
+https://1.stmip.net:8070/stream?type=.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d2qdM76.png" group-title="TV AO VIVO | RÁDIO",Brado Rádio 
+https://servidor17-5.brlogic.com:8300/live?source=links_page
+#EXTINF:-1 tvg-logo="https://imgur.com/Ns3uV8S.png" group-title="TV AO VIVO | RÁDIO",Energia 97
+https://streaming.inweb.com.br/energia
+#EXTINF:-1  tvg-logo="https://i.imgur.com/uUx9BKZ.png" group-title="TV AO VIVO | RÁDIO",Euclides da Cunha FM
+https://servidor25-2.brlogic.com:8024/live?type=.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h3CwbgQ.png" group-title="TV AO VIVO | RÁDIO",Gavião FM 
+https://stm11.xcast.com.br:11000
+#EXTINF:-1  tvg-logo="https://i.imgur.com/spf0rU1.png" group-title="TV AO VIVO | RÁDIO",Gospel
+https://hls.hunter.fm/gospel/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="TV AO VIVO | RÁDIO",Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/q9qGILb.png" group-title="TV AO VIVO | RÁDIO",Hits Brasil 
+https://hls.hunter.fm/hitsbrasil/64.m3u8?shtl=7KWu3SjMvgY-GhV1-8B6b9rB.lpykqpyxgqfSK4vGJSb3tqheOVp2UggEshcePVZJDVw
+#EXTINF:-1  tvg-logo="https://i.imgur.com/zHMxF3o.png" group-title="TV AO VIVO | RÁDIO",Iofi
+https://stream.hunter.fm/lofi/64.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/sxxaEKP.png" group-title="TV AO VIVO | RÁDIO",JERE FM 106.9 JEREMOABO BA
+https://1.stmip.net:2044/stream?type=.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YREInDH.png" group-title="TV AO VIVO | RÁDIO",Jovem Pan FM
+https://stream.zeno.fm/c45wbq2us3buv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YREInDH.png" group-title="TV AO VIVO | RÁDIO",Jovem Pan News
+https://stream.zeno.fm/vlcraijc6yiuv
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MD1dcaA.png" group-title="TV AO VIVO | RÁDIO",K-Pop
+https://stream.hunter.fm/kpop/64.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="TV AO VIVO | RÁDIO",Mix Bahia 
+https://8175.brasilstream.com.br/stream
+#EXTINF:-1  tvg-logo="https://i.imgur.com/eT8XaE3.png" group-title="TV AO VIVO | RÁDIO",Moda Sertaneja
+https://hls.hunter.fm/modasertaneja/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+#EXTINF:-1  tvg-logo="https://i.imgur.com/BNyxPr8.png" group-title="TV AO VIVO | RÁDIO",Pagode 
+https://hls.hunter.fm/pagode/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
+#EXTINF:-1  tvg-logo="https://i.imgur.com/frAXSr8.png" group-title="TV AO VIVO | RÁDIO",Pisadinha
+https://hls.hunter.fm/pisadinha/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
+#EXTINF:-1  tvg-logo="https://i.imgur.com/uq88JPV.png" group-title="TV AO VIVO | RÁDIO",Pop
+https://hls.hunter.fm/pop/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+#EXTINF:-1  tvg-logo="https://i.imgur.com/D2pbbPX.png" group-title="TV AO VIVO | RÁDIO",Pop 2
+https://hls.hunter.fm/pop2k/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qYY7Hk.png" group-title="TV AO VIVO | RÁDIO",Radio Onda Beat 
+https://www.quinsanbroadcast.com.br:8040/101FM_LITORAL?type=.flv
+#EXTINF:-1  tvg-logo="https://i.imgur.com/xAD9aHh.png" group-title="TV AO VIVO | RÁDIO",Rock
+https://hls.hunter.fm/rock/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="TV AO VIVO | RÁDIO",Rádio Cidade BA
+https://streaming.livespanel.com:20959/cidadefmlem
+#EXTINF:-1 tvg-logo="https://imgur.com/YEV3p7r.png" group-title="TV AO VIVO | RÁDIO",Rádio Muriaé Play
+https://stream.zeno.fm/d42wceognggtv.m3u3
+#EXTINF:-1  tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="TV AO VIVO | RÁDIO",Rádio POP
+https://virtues.live:8254/stream?type=.flv
+#EXTINF:-1 tvg-logo="https://imgur.com/OpAKbxr.png" group-title="TV AO VIVO | RÁDIO",Rádio Salvador FM 
+https://streaming.livespanel.com:9230/ssafm9230?type=.flv
+#EXTINF:-1  tvg-logo="https://i.imgur.com/I3pDcOW.png" group-title="TV AO VIVO | RÁDIO",Sertanejo
+https://hls.hunter.fm/sertanejo/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
+#EXTINF:-1  tvg-logo="https://i.imgur.com/uoQafom.png" group-title="TV AO VIVO | RÁDIO", Tropical 
+https://hls.hunter.fm/tropical/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDsCVEY.png" group-title="TV AO VIVO | RÁDIO",Web Rádio JP
+https://stream.zeno.fm/a7klgcfvvw9uv
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="TV AO VIVO | RÁDIO",Web Rádio Lairton Teclas
+https://live20.bozztv.com/akamaissh101/ssh101/ltrecords/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="TV AO VIVO | TV ABERTA",+SBT HD
+https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
+#EXTINF:-1 tvg-logo="https://www.40graustv.com.br/wp-content/uploads/2017/02/logo-circular.png" group-title="TV AO VIVO | TV ABERTA",40 GRAUS TV
+https://acesso.ecast.site:3125/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nVFiftB.png" group-title="TV AO VIVO | TV ABERTA",ABC BRASIL
+https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyShsQU.png" group-title="TV AO VIVO | TV ABERTA",AgitoMax
+https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="TV AO VIVO | TV ABERTA",Agro Canal
+https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD1725309082818.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="TV AO VIVO | TV ABERTA",AgroMais HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",Agro Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="TV AO VIVO | TV ABERTA",AmazonSat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xnBg83J.png" group-title="TV AO VIVO | TV ABERTA",Astral TV FHD
+https://isaocorp.cloudecast.com/astraltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zxFbtNi.png" group-title="TV AO VIVO | TV ABERTA",AW TV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="TV AO VIVO | TV ABERTA",Band Arapuan HD
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="TV AO VIVO | TV ABERTA",Band MG HD
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band - TV Modelo
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="TV AO VIVO | TV ABERTA",Band News HD
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21.m3u8
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="TV AO VIVO | TV ABERTA",Band RJ HD
+http://gerenciar.vivatele.com/viva_padrao/viva2384/3
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="TV AO VIVO | TV ABERTA",Band SP HD
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band HD
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="TV AO VIVO | TV ABERTA",Band TV - Vale do Uruará 
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8?ManoTV
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="TV AO VIVO | TV ABERTA",Band TV RBA TV
+https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="TV AO VIVO | TV ABERTA",BDCTV - TV A Critica
+https://cr7v.short.gy/ManoTV/BDCTV/Index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f7FvEEO.png" group-title="TV AO VIVO | TV ABERTA",BR Super TV
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BraziTV.png" group-title="TV AO VIVO | TV ABERTA",BraziTV
+https://cbtvnow.com:5866/hls/livest2024.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="TV AO VIVO | TV ABERTA",BS TV
+https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WwEyKVj.png" group-title="TV AO VIVO | TV ABERTA",Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isJAvqM.png" group-title="TV AO VIVO | TV ABERTA",Canal do Boi HD
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LMeLMRn.png" group-title="TV AO VIVO | TV ABERTA",Canal Educação 
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="TV AO VIVO | TV ABERTA",Canal Futura
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rEIu04G.png " group-title="TV AO VIVO | TV ABERTA",Canal Ok TV
+https://video01.kshost.com.br/oktv6914/oktv6914/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="TV AO VIVO | TV ABERTA",Canal Rural HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14073
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="TV AO VIVO | TV ABERTA",Canal Rural HD²
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/urwEPnx.png" group-title="TV AO VIVO | TV ABERTA",Canal Smart
+https://5ffab78b24f94.streamlock.net/smart/smart/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="TV AO VIVO | TV ABERTA",Canção Nova HD
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="TV AO VIVO | TV ABERTA",Canção Nova Portugal
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="TV AO VIVO | TV ABERTA",Caravana Play
+https://srv4.zcast.com.br/keynni2406/keynni2406/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="TV AO VIVO | TV ABERTA",CENTRAL TV
+https://tv02.zas.media:1936/centraltv/centraltv/pkaylist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QZhhn6FN9to/UlFrsL3Tt0I/AAAAAAAAbHo/ds9DswoDlWo/s400/Logo%2Bdo%2BSite.png" group-title="TV AO VIVO | TV ABERTA",CINEPIX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="TV AO VIVO | TV ABERTA",CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="TV AO VIVO | TV ABERTA",CLASSIQUE TV SERIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://westerntvclassics.com/wp-content/uploads/2018/07/westernclassics-header-logo.png" group-title="TV AO VIVO | TV ABERTA",CLASSIQUE TV WETERN
+https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="TV AO VIVO | TV ABERTA",Clube Web TV
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c13e6b573ac2c21dd7268e3a65f95b34.webp" group-title="TV AO VIVO | TV ABERTA",ComBrasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AUdVAuP.png" group-title="TV AO VIVO | TV ABERTA",CONECTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://imgur.com/ZV8L3gl.png" group-title="TV AO VIVO | TV ABERTA",Cultura Internacional 
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1G2nHK.png" group-title="TV AO VIVO | TV ABERTA",Demais TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YXvSdlo.png" group-title="TV AO VIVO | TV ABERTA",ESFLIX TV
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uJfsfJV.png" group-title="TV AO VIVO | TV ABERTA",GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | TV ABERTA",Globo Brasília FHD
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="TV Bahia" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo BA HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="TV AO VIVO | TV ABERTA",Globo ES HD
+############################################################################ Canais | REALITY
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="TV AO VIVO | TV ABERTA",Globo Manaus HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Rede Amazonica Porto Velho HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/3XU1BuI.png" group-title="TV AO VIVO | TV ABERTA",Globo Maranhão HD 
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/3XU1BuI.png" group-title="Canais | GLOBO",Globo Maranhão FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | TV ABERTA",Globo MG HD
+https://megaflix.mgfiles.lat/80c61267ad79da594c4b6ac915dcf2ce/file.m3u8
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | TV ABERTA",Globo MG HD²
+https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/60842be4f3e82a1163948605d01b3b96/file.txt
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | TV ABERTA",Globo MT HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo PB HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/7RU6OC9.png" group-title="TV AO VIVO | TV ABERTA",Globo NSC HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/TevIGQZ.png" group-title="Canais | GLOBO",Globo TV Liberal Belém
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | TV ABERTA",Globo PE HD
+https://megaflix.mgfiles.lat/cb318dfd4f9b98c6952bae9ea853ca13/file.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | TV ABERTA",Globo RJ FHD
+http://45.190.28.50/GLOBO_HD/index.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | TV ABERTA",Globo RJ HD
+http://gerenciar.vivatele.com/viva_padrao/viva2384/1
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | TV ABERTA",Globo SP FHD
+https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="TV AO VIVO | TV ABERTA",Globo SP HD
+http://170.84.165.204/Globo_HD/index.m3u8
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/OkFRcFd.png" group-title="TV AO VIVO | TV ABERTA",Globo TV Subaé HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/3xAPAkE.png" group-title="Canais | GLOBO",TV Clube HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TyGio9J.png" group-title="TV AO VIVO | TV ABERTA",Gogo Play
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xf2VM5n.png" group-title="TV AO VIVO | TV ABERTA",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="TV AO VIVO | TV ABERTA",Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/niOjbp5.png" group-title="TV AO VIVO | TV ABERTA",Gospel Movies TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47oBUBM.png" group-title="TV AO VIVO | TV ABERTA",Gospel Music TV
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/coq8mWG.png" group-title="TV AO VIVO | TV ABERTA",Gostei Gospel TV
+https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="TV AO VIVO | TV ABERTA",GRJNGO
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2azaf982" group-title="TV AO VIVO | TV ABERTA",Guia TV
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCaOOL8.png" group-title="TV AO VIVO | TV ABERTA",Igreja Mundial HD
+https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1960836974_b1596000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCaOOL8.png" group-title="TV AO VIVO | TV ABERTA",Igreja Mundial SD
+https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1960836974_b896000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png " group-title="TV AO VIVO | TV ABERTA",Igreja Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVFQTlu.png" group-title="TV AO VIVO | TV ABERTA",IMG TV
+https://cdn.live.br1.jmvstream.com/w/AVJ-15526/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="TV AO VIVO | TV ABERTA",Imperial TV
+https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="TV AO VIVO | TV ABERTA",ISTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Canais | ABERTO",ISTV FHD
+#EXTINF:-1 tvg-logo="https://imgur.com/brj5bHE.png" group-title="TV AO VIVO | TV ABERTA",LASSTV 
+https://tv02.zas.media:1936/lasstv/lasstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vI7gC3m.png" group-title="TV AO VIVO | TV ABERTA",Life Channel Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f7ikR69.png" group-title="Canais | ABERTO",TV Diário do Sertão
+#EXTINF:-1 tvg-id="MasterChef" tvg-logo="https://i.imgur.com/qKwrAUT.png" group-title="TV AO VIVO | TV ABERTA",MasterChef
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay_Rights/Masterchef_Brasil_BR/Masterchef_Brasil.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="TV AO VIVO | TV ABERTA",Ministério Infantil TV
+http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0QYXJwv.png" group-title="TV AO VIVO | TV ABERTA",NBT
+https://isaocorp.cloudecast.com/nbt/index.m3u8?ManoTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vSKVrvH.png" group-title="TV AO VIVO | TV ABERTA",NEW BRASIL HD
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yGBFPRH.png" group-title="TV AO VIVO | TV ABERTA",NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMx2Cxc.png" group-title="TV AO VIVO | TV ABERTA",O Dia TV
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HpA8CIQ.png" group-title="TV AO VIVO | TV ABERTA",Olha TV
+http://24.152.8.38:5001/live/olhatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gD0hmt2.png" group-title="TV AO VIVO | TV ABERTA",OTAKU SIGN TV
+https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sxB1tnb.png" group-title="TV AO VIVO | TV ABERTA",PBC TV
+https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdd5Jsa.png" group-title="TV AO VIVO | TV ABERTA",PIXTV 
+https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="TV AO VIVO | TV ABERTA",Play TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcIpMWI.png" group-title="TV AO VIVO | TV ABERTA",Primer TV
+http://177.74.174.57:8080/hls/primertv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xeW2Hsa.png" group-title="TV AO VIVO | TV ABERTA",Qtal Channel 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ga5pHL9.png" group-title="Canais | ABERTO",VV8 TV
+#EXTINF:-1 tvg-id="RadarTV" tvg-name="Radar TV" tvg-logo="https://raw.githubusercontent.com/althierestm/Radartvplayer/refs/heads/main/logo%20png%20RadarTV.png" group-title="TV AO VIVO | TV ABERTA",Radar TV
+https://radartv.s.gy/radartvaovivo
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="TV AO VIVO | TV ABERTA",RBS TV Caxias do Sul HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Pelotas HD
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="TV AO VIVO | TV ABERTA",RBS TV Porto Alegre HD
+https://megaflix.mgfiles.lat/62b278caf8021fc494d36ab72bc861b6/file.m3u8
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="TV AO VIVO | TV ABERTA",Record SicTV (RO)
+############################################################################ Canais | BAND TV
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | TV ABERTA",RecordTV BA HD
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | TV ABERTA",RecordTV Juara HD
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | TV ABERTA",RecordTV MG 
+https://megaflix.mgfiles.lat/6806ada26af700a60ae19d1bf5f7e349/file.m3u8
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | TV ABERTA",RecordTV MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | TV ABERTA",RecordTV RJ HD
+http://gerenciar.vivatele.com/viva_padrao/viva2384/13
+#EXTINF:-1 tvg-id="Record TV Rio" tvg-name="Record TV Rio" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | TV ABERTA",RecordTV RJ HD
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Conquista HD
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | TV ABERTA",RecordTV RS HD
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/zdnMTtl.png" group-title="Canais | RECORD TV",TV Tropical
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="TV AO VIVO | TV ABERTA",RecordTV SP HD²
+https://megaflix.mgfiles.lat/63299fd58178d03ef6a684296c62570a/file.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="TV AO VIVO | TV ABERTA",Rede Brasil HD
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="TV AO VIVO | TV ABERTA",Rede Brasil MT
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="TV AO VIVO | TV ABERTA",Rede Brasil PA
+https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="TV AO VIVO | TV ABERTA",Rede Brasil SC
+https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBlmVp6.png" group-title="TV AO VIVO | TV ABERTA",Rede Clone TV
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="TV AO VIVO | TV ABERTA",Rede CNT 
+http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZesaflEnFih4nFWIp20LhZ-A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wp0jhkB.png" group-title="TV AO VIVO | TV ABERTA",Rede Família
+https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ngbsXOB.png" group-title="TV AO VIVO | TV ABERTA",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Qqpy6u.png" group-title="TV AO VIVO | TV ABERTA", Rede IBTV
+https://video01.kshost.com.br:4443/k34006/k34006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qU1cTOi.png" group-title="TV AO VIVO | TV ABERTA",Rede Meio
+https://maystreaming.cloudecast.com/redemeio/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="TV AO VIVO | TV ABERTA",Rede Meio Norte FHD
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1mGOJl.png" group-title="TV AO VIVO | TV ABERTA",Rede Mundo d Televisão 
+https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/c8J2flM.png" group-title="TV AO VIVO | TV ABERTA",Rede QDM
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D9JfGzP.png" group-title="TV AO VIVO | TV ABERTA",Rede SDP TV 
+https://video01.kshost.com.br/moobi3963/moobi3963/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/faofls5.png" group-title="TV AO VIVO | TV ABERTA",REDE SECULO 21
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dNy2G7h.png" group-title="TV AO VIVO | TV ABERTA",Rede Sul
+https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/baoWqMK.png" group-title="TV AO VIVO | TV ABERTA",Rede TV Sul
+https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ShOT5Xg.png" group-title="TV AO VIVO | TV ABERTA",Rede UTV
+https://utvcdn.acessaradios.com.br/utvcdn/utvcdn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://imgur.com/0uNleBN.png" group-title="TV AO VIVO | TV ABERTA", Rede Vida
+https://aovivo.doozytv.com.br/31025556/10150829/chunks.m3u8
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="TV AO VIVO | TV ABERTA",RedeTV Guará Caxias 
+https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="TV AO VIVO | TV ABERTA",RedeTV São Luís Maranhão 
+https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="TV AO VIVO | TV ABERTA",RedeTV TV MA
+https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/EgKx2J1.png" group-title="TV AO VIVO | TV ABERTA",RedeTV!
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="Canais | RedeTV",RedeTV! PR HD
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="TV AO VIVO | TV ABERTA",RedeTV! Ro
+https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV HD" tvg-name="RedeTV HD" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="TV AO VIVO | TV ABERTA",RedeTV! TV Pampa RS
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/psyk2C5.png" group-title="TV AO VIVO | TV ABERTA",RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/31xazuV.png " group-title="TV AO VIVO | TV ABERTA",RNS TV HD
+https://stream.ichibantv.com:3827/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/31xazuV.png " group-title="TV AO VIVO | TV ABERTA",RNS TV HD²
+https://stream.ichibantv.com:3827/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="TV AO VIVO | TV ABERTA",RPC Maringa FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/Lk493tt.png" group-title="Canais | GLOBO",Globo Goiás HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLBwn2Z.png" group-title="TV AO VIVO | TV ABERTA",RS News WebTV 1
+https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLBwn2Z.png" group-title="TV AO VIVO | TV ABERTA",RS News WebTV 2
+https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiyGlGY.png" group-title="TV AO VIVO | TV ABERTA",RTN TV SP HD
+https://stmv1.samcast.com.br/cltv/cltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JxyVX6Y.png" group-title="TV AO VIVO | TV ABERTA",SANTA CRUZ WEB TV
+https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="TV AO VIVO | TV ABERTA",SBT CIDADE VERDE FHD
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="TV AO VIVO | TV ABERTA",SBT Guajará
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="TV AO VIVO | TV ABERTA",SBT NEWS
+https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="TV AO VIVO | TV ABERTA",SBT SP HD
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT Interior
+#EXTINF:-1 tvg-logo="https://imgur.com/kjL8Dvg.png" group-title="TV AO VIVO | TV ABERTA",Seven TV
+https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/V3haAYn.png" group-title="TV AO VIVO | TV ABERTA",Sou TV.
+https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="TV AO VIVO | TV ABERTA",Soul Cine Clube
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://imgur.com/MByVw7Z.png" group-title="TV AO VIVO | TV ABERTA",SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n232OSq.png" group-title="TV AO VIVO | TV ABERTA",Tela Viva TV 
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Wl6vWI.png" group-title="TV AO VIVO | TV ABERTA",Tenda TV
+https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2NXXCw.png" group-title="TV AO VIVO | TV ABERTA",Terceira via
+https://video01.kshost.com.br:4443/terceira7669/terceira7669/playlist.m3u8
+#EXTINF:-1 tvg-id="TERRA VIVA" tvg-logo="https://img.platform.wurl.dev/channel/2176/lg/3943d0/LG-Logo-PNG-100x100_v1.png" group-title="TV AO VIVO | TV ABERTA",Terra Viva
+https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="TV AO VIVO | TV ABERTA",TERRA VIVA HD
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/82
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tnv08Si.png" group-title="TV AO VIVO | TV ABERTA",TOP Mix TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="TV AO VIVO | TV ABERTA",TV A Folha
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BdTbhqX.gif" group-title="TV AO VIVO | TV ABERTA",TV Alternativa
+https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egU0jsZ.png" group-title="TV AO VIVO | TV ABERTA",TV Aparecida HD
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xrbBNPa.png" group-title="TV AO VIVO | TV ABERTA",TV Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/tyFtNYn.png" group-title="TV AO VIVO | TV ABERTA",TV ARATU HD
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Hbt4qg.png" group-title="TV AO VIVO | TV ABERTA",TV Candidés
+https://cdn.live.br1.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TV CEARÁ" tvg-name="TV CEARÁ" tvg-logo="https://i.imgur.com/IR0UllK.png" group-title="TV AO VIVO | TV ABERTA",TV Ceará HD
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://i.imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbZIFGO.png" group-title="TV AO VIVO | TV ABERTA",TV CEL 
+https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w636630499.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJwljjR.png" group-title="TV AO VIVO | TV ABERTA",TV Channel Network 
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FpLO71B.png" group-title="TV AO VIVO | TV ABERTA",TV Chroma
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2tLnGbo.png" group-title="TV AO VIVO | TV ABERTA",TV Cidade RJ
+https://stream.ichibantv.com:3827/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="TV AO VIVO | TV ABERTA",TV Cidade Verde
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="TV AO VIVO | TV ABERTA",TV CLASSICOS
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eCMeuc4.png" group-title="TV AO VIVO | TV ABERTA",TV CNB AMERICAN
+https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w144456680.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RpQKY4x.png" group-title="TV AO VIVO | TV ABERTA",TV CNB ORLANDO
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="TV AO VIVO | TV ABERTA",TV Cristal - TV A Crítica TO
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbCBogB.png" group-title="TV AO VIVO | TV ABERTA",TV da Gente
+https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="TV AO VIVO | TV ABERTA",TV Difusora (SBT São Luís) 
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="TV AO VIVO | TV ABERTA",TV Difusora Leste
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="TV AO VIVO | TV ABERTA",TV Evangelizar 
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="TV AO VIVO | TV ABERTA",TV Fala Litoral 
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605044150.m3u8
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="TV AO VIVO | TV ABERTA",TV Gazeta BA SD
+https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="TV AO VIVO | TV ABERTA",TV Gazeta HD
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/79
+#EXTINF:-1 tvg-logo="https://imgur.com/3YP7dFy.png" group-title="TV AO VIVO | TV ABERTA",TV GAZETA NORTE MINEIRA
+https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="TV AO VIVO | TV ABERTA",TV Gazeta SP HD
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lzBM8Gh.png" group-title="TV AO VIVO | TV ABERTA",TV gospel 
+https://5cf4a2c2512a2.streamlock.net/8036/8036/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wdyq9R9.png" group-title="TV AO VIVO | TV ABERTA",TV Gramado
+https://isaocorp.cloudecast.com/tvgramado/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CbmctRN.png" group-title="TV AO VIVO | TV ABERTA",TV Grão Pará
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="TV AO VIVO | TV ABERTA",TV Guará MA
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5HoOtda.png" group-title="TV AO VIVO | TV ABERTA", TV Imaculada
+https://caikron.com.br:19360/tvmi/tvmi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t7tFDIb.png" group-title="TV AO VIVO | TV ABERTA",TV Japi
+https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="TV AO VIVO | TV ABERTA",TV Jornal HD
+https://streaming.jornalmn.com.br/live/tvjornalmn.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0BoUkWv.png " group-title="TV AO VIVO | TV ABERTA",TV LITORAL 
+https://srv2.tvmais.net.br/hls/tvlitoral/1_0/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FTXUY6K.png " group-title="TV AO VIVO | TV ABERTA",TV LITORAL Macau
+https://video10.logicahost.com.br/zapnovelas/zapnovelas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FTXUY6K.png " group-title="TV AO VIVO | TV ABERTA",TV LITORAL RN
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TV MAANAIM" tvg-name="TV MAANAIM" tvg-logo="https://i.imgur.com/71mif2R.png" group-title="TV AO VIVO | TV ABERTA",TV Maanaim
+https://58c8a6b3c74e2.streamlock.net:1936/maranatalive/smil:maranatalive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9N1RL3.png" group-title="TV AO VIVO | TV ABERTA",TV Mais
+https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OaLL6zj.png" group-title="TV AO VIVO | TV ABERTA",TV Mais Brasil 
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tHbZKnY.png " group-title="TV AO VIVO | TV ABERTA",TV Mais Família
+https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="TV AO VIVO | TV ABERTA",TV Marajoara 
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="TV AO VIVO | TV ABERTA",TV NBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLhvH1F.png" group-title="TV AO VIVO | TV ABERTA",TV Nostalgia 
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cfjqStG.png" group-title="TV AO VIVO | TV ABERTA",TV Nostalgia 
+https://stmv1.srvif.com/tvnostalgia/tvnostalgia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNiNQFX.png" group-title="TV AO VIVO | TV ABERTA",TV Notícias Agrícolas
+https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="TV AO VIVO | TV ABERTA",TV Novo Tempo HD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="TV AO VIVO | TV ABERTA",TV Novo Tempo SD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0zSVzOc.png" group-title="TV AO VIVO | TV ABERTA",TV Osório News 
+https://stmv2.srvsh.com.br/0614/0614/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mfdXYXs.png" group-title="TV AO VIVO | TV ABERTA",TV OURO NEGRO
+https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh3yugR.png" group-title="TV AO VIVO | TV ABERTA",TV Paraense
+https://cdn.jmvstream.com/w/AVJ-13102/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OP1rFwr.png" group-title="TV AO VIVO | TV ABERTA",TV Paraná Turismo 
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nA0cWeE.png" group-title="TV AO VIVO | TV ABERTA",TV RBC
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/usK7kMl.png" group-title="TV AO VIVO | TV ABERTA",Tv Recanto da Fé
+https://stmv1.srvif.com/2022/2022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBzrYCV.png" group-title="TV AO VIVO | TV ABERTA",TV Recon
+https://acesso.ecast.site:3862/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="TV AO VIVO | TV ABERTA",TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/03l7P4i.png" group-title="TV AO VIVO | TV ABERTA",TV Rio Preto
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JPpKN78.png" group-title="TV AO VIVO | TV ABERTA",TV Santa Maria
+https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/asML84j.png" group-title="TV AO VIVO | TV ABERTA",TV Serra América 
+https://stmv2.srvsh.com.br/tvserraamerica4639/tvserraamerica4639/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yKrsIlf.png" group-title="TV AO VIVO | TV ABERTA",TV Serra Dourada
+https://livestream.zazerconer.workers.dev/channel/UCuODGS_c39psNvI8f3bYN_g.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tLkF2BE.png" group-title="TV AO VIVO | TV ABERTA",TV SIM Colatina
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tLkF2BE.png" group-title="TV AO VIVO | TV ABERTA",TV SIM Linhares
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tLkF2BE.png" group-title="TV AO VIVO | TV ABERTA",TV SIM São Mateus
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/htzprG4.png" group-title="TV AO VIVO | TV ABERTA",TV Sol Comunidade
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMdQYEe.png" group-title="TV AO VIVO | TV ABERTA",TV Sonata 
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw0RLlI.png" group-title="TV AO VIVO | TV ABERTA",TV União Brasília
+https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw0RLlI.png" group-title="TV AO VIVO | TV ABERTA",TV União Fortaleza 
+https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw0RLlI.png" group-title="TV AO VIVO | TV ABERTA",TV União Rio Branco
+https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/KYuhWGi.png" group-title="TV AO VIVO | TV ABERTA",TV Verde Mares CE HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QqdFSOV.png" group-title="TV AO VIVO | TV ABERTA",TV Vianney
+https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I9vp3vu.png" group-title="TV AO VIVO | TV ABERTA",TV Visual 
+https://stream.ichibantv.com:3874/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfPT4sF.png" group-title="TV AO VIVO | TV ABERTA",TV Vitória PE
+https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUVp1U1.png" group-title="TV AO VIVO | TV ABERTA",TVC
+https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w384766910.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lka8Rpn.png" group-title="TV AO VIVO | TV ABERTA",TVC Brasil
+https://a.cdni.live/tvcbrasil/tvcbrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/58dfbhr.png" group-title="TV AO VIVO | TV ABERTA",TVM Pará 
+https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://imgur.com/6MtSWg4.png" group-title="TV AO VIVO | TV ABERTA",ULB TV
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1050568292.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQKRfvo.png" group-title="TV AO VIVO | TV ABERTA",Universo TV
+https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBlBL5U.png" group-title="TV AO VIVO | TV ABERTA",VClassic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f97c5Fk.png" group-title="TV AO VIVO | TV ABERTA",Vila TV
+https://streamserver.streamingdevideo.com.br/8072/8072/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NRdlPpn.png" group-title="TV AO VIVO | TV ABERTA",VITRINE ESPORTIVA
+https://cdn.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rGJNeou.png" group-title="TV AO VIVO | TV ABERTA",Vivax TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="TV AO VIVO | TV ABERTA",Web Rádio Lairton Teclas
+https://live20.bozztv.com/akamaissh101/ssh101/ltrecords/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl4UUmb.png" group-title="TV AO VIVO | TV ABERTA", WEB TV BOANOVA
+https://stmv.video.expressolider.com.br/tvboanova/tvboanova/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VdcLJto.png" group-title="TV AO VIVO | TV ABERTA",Web TV Campeão De Tudo
+https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="TV AO VIVO | TV ABERTA",Web TV Classicos
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qIzyAmA.png" group-title="TV AO VIVO | TV ABERTA",WEB TV PROGRESSO
+#EXTINF:-1 tvg-logo="https://imgur.com/akpYIW2.png" group-title="Canais | ABERTO",VRT Channel
+#EXTINF:-1 tvg-logo="https://imgur.com/oWwYGI1.png" group-title="TV AO VIVO | TV ABERTA", Wtj TV Minas
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3AbUT8O.png" group-title="TV AO VIVO | TV ABERTA", XTREME TV
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7AKdZrC.png" group-title="TV AO VIVO | TV ABERTA",YEEAAH
+http://stmv2.painelvideo.top/yeeaahrede/yeeaahrede/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://nVFiftB.png" group-title="TV AO VIVO | TV ABERTA", Ypê TV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="TV AO VIVO | TV FECHADA",Animal Planet HD
 https://megaflix.mgfiles.lat/c87d9b108890cb2ce9de619034d886dd/file.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="TV AO VIVO | TV FECHADA",Animal Planet HD²
